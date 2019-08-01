@@ -9,6 +9,7 @@
 """
 
 from ToolUtils.PublicUtils import LOG,JsonParser
+from ToolUtils import FuncHttpMethod
 from CadvisorModel.Resource import MachinestatModel , ContainerModel , ContainerSummaryModel
 
 
@@ -19,10 +20,15 @@ class AnalysisEngine(object):
 
         if self.ResourceType == "FILE":
             self.Resource = self.GetResourceByFILE(self.Field)
+        if self.ResourceType == "HTTP":
+            self.Resource = self.GetResourceByHTTP(self.Field)
 
     def GetMachineCapacity(self):
         LOG.debug("GetMachineCapacity: %s" % self.Field)
-        return self.GetResourceByFILE("%s" % self.Field)["memory_capacity"]
+        if self.ResourceType == "FILE":
+            return self.GetResourceByFILE("%s" % self.Field)["memory_capacity"]
+        if self.ResourceType == "HTTP":
+            return self.GetResourceByHTTP("%s" % self.Field)["memory_capacity"]
 
     def MachineAnalysis(self):
         return MachinestatModel(self.Resource).INIT()
@@ -38,3 +44,11 @@ class AnalysisEngine(object):
         FILE = open(Field)
         FILE_READ = FILE.read()
         return JsonParser.JsonToObj(FILE_READ)
+
+    @staticmethod
+    def GetResourceByHTTP(Field):
+        class BasicGetRequest:
+            @FuncHttpMethod.GET(url=Field,auth=None,verify=False)
+            def GetResult(response):
+                return JsonParser.JsonToObj(response.text)
+        return BasicGetRequest.GetResult()

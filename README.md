@@ -6,14 +6,23 @@ As a container status collector, CAdvisor could provide developer with several f
  - Memory/CPU runtime history stats
  - Machine summary
 
-I've checked out the API Response and provided some powerful Models(It's a part of my master graduate Experiment)
+In this project, I've re-format the API Response and provided some powerful Models, it supports:
+ - HTTP
+ ```
+ workspace = ProjectWorkspace("FILE","DataSet-Demo/")
+ ```
+ - FILE
+ ```
+ workspace = ProjectWorkspace("HTTP","http://node1:8080"))
+ ```
 
 # Installation
+Environment: ***Python3/pip***
 ```bash
 pip install -r requirements.txt
 ```
 
-# Demo
+# Tutorial
 ```bash
 python test.py
 ```

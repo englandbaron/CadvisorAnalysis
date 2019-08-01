@@ -10,7 +10,12 @@
 from ToolUtils.PublicUtils import LOG
 from CadvisorModel.ProjectWorkspace import ProjectWorkspace
 
-workspace = ProjectWorkspace("FILE","DataSet-Demo/")
+# workspace = ProjectWorkspace("FILE","DataSet-Demo/")
+# LOG.success("MachineStats: %s" % workspace.MachineStatParser())
+# LOG.success("ContainerStats: %s" % workspace.ContainerStatParser())
+# LOG.success("ContainerSummarys: %s" % workspace.SummaryStatParser())
+
+workspace = ProjectWorkspace("HTTP","http://node1:8080")
 LOG.success("MachineStats: %s" % workspace.MachineStatParser())
 LOG.success("ContainerStats: %s" % workspace.ContainerStatParser())
-LOG.success("ContainerStats: %s" % workspace.SummaryStatParser())
+LOG.success("ContainerSummarys: %s" % workspace.SummaryStatParser())
