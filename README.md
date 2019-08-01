@@ -1,5 +1,5 @@
 # Runtime Status Analysis for K8s
-Fetch the K8s pods' Runtime status & analysis it 
+Fetch the K8s pods' Runtime status & analysis
 ![Logo](https://github.com/englandbaron/CadvisorAnalysis/blob/master/Image/logo.png)<br/>
 # Introduction
 As a container status collector, CAdvisor could provide developer with several features:<br/>
