@@ -7,11 +7,11 @@ As a container status collector, CAdvisor could provide developer with several f
  - Machine summary
 
 In this project, I've re-format the API Response and provided some powerful Models, it supports:
- - HTTP
+ - FILE
  ```
  workspace = ProjectWorkspace("FILE","DataSet-Demo/")
  ```
- - FILE
+ - HTTP
  ```
  workspace = ProjectWorkspace("HTTP","http://node1:8080"))
  ```
