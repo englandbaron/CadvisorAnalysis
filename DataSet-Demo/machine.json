@@ -1,0 +1,155 @@
+{
+  "num_cores": 2,
+  "cpu_frequency_khz": 2499996,
+  "memory_capacity": 3973537792,
+  "hugepages": [
+    {
+      "page_size": 1048576,
+      "num_pages": 0
+    },
+    {
+      "page_size": 2048,
+      "num_pages": 0
+    }
+  ],
+  "machine_id": "0490cc5ee6fd4092913f84f195daf4c7",
+  "system_uuid": "33A70BF8-A5F5-485A-AA76-146F38D2CDF1",
+  "boot_id": "9f976fb4-0fc2-4e3d-bf17-f547dd5b93d9",
+  "filesystems": [
+    {
+      "device": "tmpfs",
+      "capacity": 67108864,
+      "type": "vfs",
+      "inodes": 485051,
+      "has_inodes": true
+    },
+    {
+      "device": "/dev/vda1",
+      "capacity": 52709240832,
+      "type": "vfs",
+      "inodes": 3276800,
+      "has_inodes": true
+    },
+    {
+      "device": "shm",
+      "capacity": 67108864,
+      "type": "vfs",
+      "inodes": 485051,
+      "has_inodes": true
+    },
+    {
+      "device": "overlay",
+      "capacity": 52709240832,
+      "type": "vfs",
+      "inodes": 3276800,
+      "has_inodes": true
+    }
+  ],
+  "disk_map": {
+    "253:0": {
+      "name": "vda",
+      "major": 253,
+      "minor": 0,
+      "size": 53687091200,
+      "scheduler": "mq-deadline"
+    },
+    "253:16": {
+      "name": "vdb",
+      "major": 253,
+      "minor": 16,
+      "size": 67108864,
+      "scheduler": "mq-deadline"
+    }
+  },
+  "network_devices": [
+    {
+      "name": "eth0",
+      "mac_address": "fa:16:3e:9b:1e:61",
+      "speed": 0,
+      "mtu": 1450
+    },
+    {
+      "name": "flannel.1",
+      "mac_address": "2a:2d:f5:28:d2:e1",
+      "speed": 0,
+      "mtu": 1400
+    },
+    {
+      "name": "virbr0",
+      "mac_address": "52:54:00:78:86:0d",
+      "speed": 0,
+      "mtu": 1500
+    },
+    {
+      "name": "virbr0-nic",
+      "mac_address": "52:54:00:78:86:0d",
+      "speed": 0,
+      "mtu": 1500
+    }
+  ],
+  "topology": [
+    {
+      "node_id": 0,
+      "memory": 4294434816,
+      "cores": [
+        {
+          "core_id": 0,
+          "thread_ids": [
+            0
+          ],
+          "caches": [
+            {
+              "size": 32768,
+              "type": "Data",
+              "level": 1
+            },
+            {
+              "size": 32768,
+              "type": "Instruction",
+              "level": 1
+            },
+            {
+              "size": 4194304,
+              "type": "Unified",
+              "level": 2
+            }
+          ]
+        }
+      ],
+      "caches": null
+    },
+    {
+      "node_id": 1,
+      "memory": 0,
+      "cores": [
+        {
+          "core_id": 0,
+          "thread_ids": [
+            1
+          ],
+          "caches": [
+            {
+              "size": 32768,
+              "type": "Data",
+              "level": 1
+            },
+            {
+              "size": 32768,
+              "type": "Instruction",
+              "level": 1
+            },
+            {
+              "size": 4194304,
+              "type": "Unified",
+              "level": 2
+            }
+          ]
+        }
+      ],
+      "caches": null
+    }
+  ],
+  "cloud_provider": "Unknown",
+  "instance_type": "Unknown",
+  "instance_id": "None"
+}

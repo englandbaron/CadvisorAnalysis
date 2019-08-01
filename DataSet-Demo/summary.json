@@ -1,0 +1,7170 @@
+{
+  "/": {
+    "timestamp": "2019-07-29T12:11:27.784345595Z",
+    "latest_usage": {
+      "cpu": 629,
+      "memory": 2574360576
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 279,
+        "max": 580,
+        "fifty": 193,
+        "ninety": 505,
+        "ninetyfive": 565
+      },
+      "memory": {
+        "present": true,
+        "mean": 2573862912,
+        "max": 2578915328,
+        "fifty": 2573725696,
+        "ninety": 2573828096,
+        "ninetyfive": 2578214092
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 283,
+        "max": 1161,
+        "fifty": 514,
+        "ninety": 560,
+        "ninetyfive": 583
+      },
+      "memory": {
+        "present": true,
+        "mean": 2577896859,
+        "max": 2630594560,
+        "fifty": 2580659814,
+        "ninety": 2592838901,
+        "ninetyfive": 2598895677
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 283,
+        "max": 1161,
+        "fifty": 514,
+        "ninety": 560,
+        "ninetyfive": 583
+      },
+      "memory": {
+        "present": true,
+        "mean": 2577896859,
+        "max": 2630594560,
+        "fifty": 2580659814,
+        "ninety": 2592838901,
+        "ninetyfive": 2598895677
+      }
+    }
+  },
+  "/kubepods.slice": {
+    "timestamp": "2019-07-29T12:11:27.439616102Z",
+    "latest_usage": {
+      "cpu": 50,
+      "memory": 650194944
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 41,
+        "max": 82,
+        "fifty": 36,
+        "ninety": 62,
+        "ninetyfive": 80
+      },
+      "memory": {
+        "present": true,
+        "mean": 650274166,
+        "max": 650452992,
+        "fifty": 650264576,
+        "ninety": 650444800,
+        "ninetyfive": 650444800
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 40,
+        "max": 123,
+        "fifty": 56,
+        "ninety": 63,
+        "ninetyfive": 64
+      },
+      "memory": {
+        "present": true,
+        "mean": 650212418,
+        "max": 650944512,
+        "fifty": 650293452,
+        "ninety": 650444431,
+        "ninetyfive": 650457067
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 40,
+        "max": 123,
+        "fifty": 56,
+        "ninety": 63,
+        "ninetyfive": 64
+      },
+      "memory": {
+        "present": true,
+        "mean": 650212418,
+        "max": 650944512,
+        "fifty": 650293452,
+        "ninety": 650444431,
+        "ninetyfive": 650457067
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice": {
+    "timestamp": "2019-07-29T12:11:27.377363379Z",
+    "latest_usage": {
+      "cpu": 25,
+      "memory": 268156928
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 28,
+        "max": 50,
+        "fifty": 26,
+        "ninety": 36,
+        "ninetyfive": 43
+      },
+      "memory": {
+        "present": true,
+        "mean": 268163405,
+        "max": 268271616,
+        "fifty": 268152832,
+        "ninety": 268224102,
+        "ninetyfive": 268271616
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 28,
+        "max": 93,
+        "fifty": 34,
+        "ninety": 38,
+        "ninetyfive": 39
+      },
+      "memory": {
+        "present": true,
+        "mean": 268064436,
+        "max": 268369920,
+        "fifty": 268081152,
+        "ninety": 268155289,
+        "ninetyfive": 268156928
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 28,
+        "max": 93,
+        "fifty": 34,
+        "ninety": 38,
+        "ninetyfive": 39
+      },
+      "memory": {
+        "present": true,
+        "mean": 268064436,
+        "max": 268369920,
+        "fifty": 268081152,
+        "ninety": 268155289,
+        "ninetyfive": 268156928
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod4ecc8d08_da31_4b1c_b3b3_bad0a22260ff.slice": {
+    "timestamp": "2019-07-29T12:11:12.649932231Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod4ecc8d08_da31_4b1c_b3b3_bad0a22260ff.slice/docker-390167a21bd27f57036f2059fc545fcf4eab8db8297c9f902c6843884725c1c4.scope": {
+    "timestamp": "2019-07-29T12:11:27.153088201Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 40960
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod4ecc8d08_da31_4b1c_b3b3_bad0a22260ff.slice/docker-44394d502b5c1df1a73cdf32e9c888bae621fcfc8a37e5b81ff3de5cd4e79480.scope": {
+    "timestamp": "2019-07-29T12:11:08.35322938Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 3321856
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 3325366,
+        "max": 3325952,
+        "fifty": 3325952,
+        "ninety": 3325952,
+        "ninetyfive": 3325952
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 3322292,
+        "max": 3325952,
+        "fifty": 3321856,
+        "ninety": 3325952,
+        "ninetyfive": 3325952
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 3322292,
+        "max": 3325952,
+        "fifty": 3321856,
+        "ninety": 3325952,
+        "ninetyfive": 3325952
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod5fb3a42b_86ef_4a41_b7c6_4fd4707597cd.slice": {
+    "timestamp": "2019-07-29T12:11:27.691072586Z",
+    "latest_usage": {
+      "cpu": 11,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 10,
+        "max": 16,
+        "fifty": 10,
+        "ninety": 12,
+        "ninetyfive": 13
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 23,
+        "fifty": 11,
+        "ninety": 12,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 23,
+        "fifty": 11,
+        "ninety": 12,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod5fb3a42b_86ef_4a41_b7c6_4fd4707597cd.slice/docker-4c1d21b4d65c21daf595e39802503f701b42b491740bec989b8a9588dd54c2d1.scope": {
+    "timestamp": "2019-07-29T12:11:27.538094579Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 40960
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod5fb3a42b_86ef_4a41_b7c6_4fd4707597cd.slice/docker-5eded4702ec84664c7040cad852472ab6ba1a9ea0611a62868329364838c13b2.scope": {
+    "timestamp": "2019-07-29T12:11:26.555722806Z",
+    "latest_usage": {
+      "cpu": 11,
+      "memory": 10231808
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 10,
+        "max": 17,
+        "fifty": 10,
+        "ninety": 12,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 10231808,
+        "max": 10231808,
+        "fifty": 10231808,
+        "ninety": 10231808,
+        "ninetyfive": 10231808
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 26,
+        "fifty": 11,
+        "ninety": 12,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 10226967,
+        "max": 10293248,
+        "fifty": 10231808,
+        "ninety": 10231808,
+        "ninetyfive": 10231808
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 26,
+        "fifty": 11,
+        "ninety": 12,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 10226967,
+        "max": 10293248,
+        "fifty": 10231808,
+        "ninety": 10231808,
+        "ninetyfive": 10231808
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod9c8ecf5b_4e9a_4d9a_bd5a_76c58e75b751.slice": {
+    "timestamp": "2019-07-29T12:11:27.969675639Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 18358272
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 3,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 18358272,
+        "max": 18358272,
+        "fifty": 18358272,
+        "ninety": 18358272,
+        "ninetyfive": 18358272
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 8,
+        "fifty": 1,
+        "ninety": 2,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 18338208,
+        "max": 18472960,
+        "fifty": 18341888,
+        "ninety": 18358272,
+        "ninetyfive": 18358272
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 8,
+        "fifty": 1,
+        "ninety": 2,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 18338208,
+        "max": 18472960,
+        "fifty": 18341888,
+        "ninety": 18358272,
+        "ninetyfive": 18358272
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod9c8ecf5b_4e9a_4d9a_bd5a_76c58e75b751.slice/docker-25d93c30c1468b258b1b291ea590d0b8e19e853477485fde254ab1d2f0d80086.scope": {
+    "timestamp": "2019-07-29T12:11:28.093551751Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 10760192
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 3,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 10760192,
+        "max": 10760192,
+        "fifty": 10760192,
+        "ninety": 10760192,
+        "ninetyfive": 10760192
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 10,
+        "fifty": 1,
+        "ninety": 2,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 10739970,
+        "max": 10874880,
+        "fifty": 10743808,
+        "ninety": 10760192,
+        "ninetyfive": 10760192
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 10,
+        "fifty": 1,
+        "ninety": 2,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 10739970,
+        "max": 10874880,
+        "fifty": 10743808,
+        "ninety": 10760192,
+        "ninetyfive": 10760192
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-pod9c8ecf5b_4e9a_4d9a_bd5a_76c58e75b751.slice/docker-87c47147e38262400f195f5849ddb817f0ec66a8f06240aef39eca309dd8ddb9.scope": {
+    "timestamp": "2019-07-29T12:11:27.954678757Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 45056
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-poda189bbae_c46e_415a_877c_21c686d53588.slice": {
+    "timestamp": "2019-07-29T12:11:27.893420976Z",
+    "latest_usage": {
+      "cpu": 2,
+      "memory": 76943360
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 16,
+        "fifty": 1,
+        "ninety": 3,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 76943360,
+        "max": 76943360,
+        "fifty": 76943360,
+        "ninety": 76943360,
+        "ninetyfive": 76943360
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 16,
+        "fifty": 3,
+        "ninety": 3,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 76909301,
+        "max": 77189120,
+        "fifty": 76931072,
+        "ninety": 76943360,
+        "ninetyfive": 76943360
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 16,
+        "fifty": 3,
+        "ninety": 3,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 76909301,
+        "max": 77189120,
+        "fifty": 76931072,
+        "ninety": 76943360,
+        "ninetyfive": 76943360
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-poda189bbae_c46e_415a_877c_21c686d53588.slice/docker-0ad4666c498d603062d3fb4927ed9d6dd136a40fd85aca7de5034b556fb7e14c.scope": {
+    "timestamp": "2019-07-29T12:11:28.173810381Z",
+    "latest_usage": {
+      "cpu": 3,
+      "memory": 76894208
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 16,
+        "fifty": 1,
+        "ninety": 3,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 76894208,
+        "max": 76894208,
+        "fifty": 76894208,
+        "ninety": 76894208,
+        "ninetyfive": 76894208
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 16,
+        "fifty": 3,
+        "ninety": 3,
+        "ninetyfive": 3
+      },
+      "memory": {
+        "present": true,
+        "mean": 76859843,
+        "max": 77107200,
+        "fifty": 76881920,
+        "ninety": 76894208,
+        "ninetyfive": 76894208
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 16,
+        "fifty": 3,
+        "ninety": 3,
+        "ninetyfive": 3
+      },
+      "memory": {
+        "present": true,
+        "mean": 76859843,
+        "max": 77107200,
+        "fifty": 76881920,
+        "ninety": 76894208,
+        "ninetyfive": 76894208
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-poda189bbae_c46e_415a_877c_21c686d53588.slice/docker-33064ad2ce1eddc8620b374dcd8951ec8246b10a9a64bbcee5024fc6f19cf39f.scope": {
+    "timestamp": "2019-07-29T12:11:27.863155633Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 49152
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 49152,
+        "max": 49152,
+        "fifty": 49152,
+        "ninety": 49152,
+        "ninetyfive": 49152
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 49152,
+        "max": 49152,
+        "fifty": 49152,
+        "ninety": 49152,
+        "ninetyfive": 49152
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 49152,
+        "max": 49152,
+        "fifty": 49152,
+        "ninety": 49152,
+        "ninetyfive": 49152
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podd43c4e6d_1b7c_4d3a_9fba_ed8f2d7f205f.slice": {
+    "timestamp": "2019-07-29T12:11:27.842204823Z",
+    "latest_usage": {
+      "cpu": 10,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 23,
+        "fifty": 9,
+        "ninety": 11,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 26,
+        "fifty": 11,
+        "ninety": 11,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 26,
+        "fifty": 11,
+        "ninety": 11,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podd43c4e6d_1b7c_4d3a_9fba_ed8f2d7f205f.slice/docker-75cdde79d222100f95ec24a9669c9adff21f489a58de5cc163860ef97fa05a89.scope": {
+    "timestamp": "2019-07-29T12:11:28.123848361Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 40960
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podd43c4e6d_1b7c_4d3a_9fba_ed8f2d7f205f.slice/docker-eec703747b9d637b1054c8bb620b9339401046d3a8c365d1c0ed6ad2279aea33.scope": {
+    "timestamp": "2019-07-29T12:11:27.972016582Z",
+    "latest_usage": {
+      "cpu": 10,
+      "memory": 10969088
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 17,
+        "fifty": 9,
+        "ninety": 11,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 10969088,
+        "max": 10969088,
+        "fifty": 10969088,
+        "ninety": 10969088,
+        "ninetyfive": 10969088
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 36,
+        "fifty": 11,
+        "ninety": 11,
+        "ninetyfive": 11
+      },
+      "memory": {
+        "present": true,
+        "mean": 10969088,
+        "max": 10969088,
+        "fifty": 10969088,
+        "ninety": 10969088,
+        "ninetyfive": 10969088
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 36,
+        "fifty": 11,
+        "ninety": 11,
+        "ninetyfive": 11
+      },
+      "memory": {
+        "present": true,
+        "mean": 10969088,
+        "max": 10969088,
+        "fifty": 10969088,
+        "ninety": 10969088,
+        "ninetyfive": 10969088
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podd6cf4dc3_0aa9_4fe7_8e49_3aea13bd7888.slice": {
+    "timestamp": "2019-07-29T12:11:27.179650405Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 23068672
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 39,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 38
+      },
+      "memory": {
+        "present": true,
+        "mean": 23059186,
+        "max": 23068672,
+        "fifty": 23068672,
+        "ninety": 23068672,
+        "ninetyfive": 23068672
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 61,
+        "fifty": 1,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 23077536,
+        "max": 23310336,
+        "fifty": 23076864,
+        "ninety": 23132160,
+        "ninetyfive": 23134208
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 61,
+        "fifty": 1,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 23077536,
+        "max": 23310336,
+        "fifty": 23076864,
+        "ninety": 23132160,
+        "ninetyfive": 23134208
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podd6cf4dc3_0aa9_4fe7_8e49_3aea13bd7888.slice/docker-6284f0def3d1e0ae3dafcf822e7c8c283df0a6794170a5b39e0ba3c9a5f476ad.scope": {
+    "timestamp": "2019-07-29T12:11:27.558973632Z",
+    "latest_usage": {
+      "cpu": 26,
+      "memory": 23076864
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 18,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 11
+      },
+      "memory": {
+        "present": true,
+        "mean": 23019520,
+        "max": 23019520,
+        "fifty": 23019520,
+        "ninety": 23019520,
+        "ninetyfive": 23019520
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 66,
+        "fifty": 1,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 23028758,
+        "max": 23494656,
+        "fifty": 23027712,
+        "ninety": 23064576,
+        "ninetyfive": 23085056
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 66,
+        "fifty": 1,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 23028758,
+        "max": 23494656,
+        "fifty": 23027712,
+        "ninety": 23064576,
+        "ninetyfive": 23085056
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podd6cf4dc3_0aa9_4fe7_8e49_3aea13bd7888.slice/docker-6284f0def3d1e0ae3dafcf822e7c8c283df0a6794170a5b39e0ba3c9a5f476ad.scope/kube-proxy": {
+    "timestamp": "2019-07-29T12:11:25.311119634Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 14794752
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 28,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 23
+      },
+      "memory": {
+        "present": true,
+        "mean": 14794752,
+        "max": 14794752,
+        "fifty": 14794752,
+        "ninety": 14794752,
+        "ninetyfive": 14794752
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 62,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 14803900,
+        "max": 15351808,
+        "fifty": 14802944,
+        "ninety": 14858240,
+        "ninetyfive": 14860288
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 62,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 14803900,
+        "max": 15351808,
+        "fifty": 14802944,
+        "ninety": 14858240,
+        "ninetyfive": 14860288
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podd6cf4dc3_0aa9_4fe7_8e49_3aea13bd7888.slice/docker-cfb8005ae5a2579f499e9ed63ec09f931264f1e5b4acbd3362d0db12249db9a9.scope": {
+    "timestamp": "2019-07-29T12:11:28.315217977Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 49152
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 49152,
+        "max": 49152,
+        "fifty": 49152,
+        "ninety": 49152,
+        "ninetyfive": 49152
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 49152,
+        "max": 49152,
+        "fifty": 49152,
+        "ninety": 49152,
+        "ninetyfive": 49152
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 49152,
+        "max": 49152,
+        "fifty": 49152,
+        "ninety": 49152,
+        "ninetyfive": 49152
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-poddd28ab7a_09bb_446e_a4b7_d94db8299766.slice": {
+    "timestamp": "2019-07-29T12:10:32.513218497Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1183744
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1183744,
+        "max": 1183744,
+        "fifty": 1183744,
+        "ninety": 1183744,
+        "ninetyfive": 1183744
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1183744,
+        "max": 1183744,
+        "fifty": 1183744,
+        "ninety": 1183744,
+        "ninetyfive": 1183744
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1183744,
+        "max": 1183744,
+        "fifty": 1183744,
+        "ninety": 1183744,
+        "ninetyfive": 1183744
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-poddd28ab7a_09bb_446e_a4b7_d94db8299766.slice/docker-0f017409184d7f7915e0d51b95363b4d379166e5abf5558b19c5b186ea1bde67.scope": {
+    "timestamp": "2019-07-29T12:10:26.04788377Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 40960
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-poddd28ab7a_09bb_446e_a4b7_d94db8299766.slice/docker-1d53874cd701daa1326c18b89ede13a83ea7448aa624b94d6e9cba29f139eb96.scope": {
+    "timestamp": "2019-07-29T12:11:11.965774624Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1142784
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1142784,
+        "max": 1142784,
+        "fifty": 1142784,
+        "ninety": 1142784,
+        "ninetyfive": 1142784
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1142784,
+        "max": 1142784,
+        "fifty": 1142784,
+        "ninety": 1142784,
+        "ninetyfive": 1142784
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1142784,
+        "max": 1142784,
+        "fifty": 1142784,
+        "ninety": 1142784,
+        "ninetyfive": 1142784
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podf958f6fe_d348_43b3_8859_5cf7f655827f.slice": {
+    "timestamp": "2019-07-29T12:11:26.562426891Z",
+    "latest_usage": {
+      "cpu": 3,
+      "memory": 122089472
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 5,
+        "fifty": 3,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 122088872,
+        "max": 122200064,
+        "fifty": 122085376,
+        "ninety": 122085376,
+        "ninetyfive": 122188595
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 12,
+        "fifty": 4,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 122046084,
+        "max": 122200064,
+        "fifty": 122040320,
+        "ninety": 122080870,
+        "ninetyfive": 122081280
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 12,
+        "fifty": 4,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 122046084,
+        "max": 122200064,
+        "fifty": 122040320,
+        "ninety": 122080870,
+        "ninetyfive": 122081280
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podf958f6fe_d348_43b3_8859_5cf7f655827f.slice/docker-50449d4da0d307ba200a254b59c6082d61aacd4e645c1b017bc5ddcbb2985765.scope": {
+    "timestamp": "2019-07-29T12:11:26.519469441Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 45056
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-besteffort.slice/kubepods-besteffort-podf958f6fe_d348_43b3_8859_5cf7f655827f.slice/docker-c3c9a11239f617fc1cd340b38be41eeb5a3c9dc80eca2811c86d65ed3d1f14cc.scope": {
+    "timestamp": "2019-07-29T12:11:28.246423857Z",
+    "latest_usage": {
+      "cpu": 3,
+      "memory": 114634752
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 6,
+        "fifty": 3,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 114637482,
+        "max": 114753536,
+        "fifty": 114630656,
+        "ninety": 114634752,
+        "ninetyfive": 114732236
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 12,
+        "fifty": 4,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 114591708,
+        "max": 114753536,
+        "fifty": 114595840,
+        "ninety": 114626150,
+        "ninetyfive": 114626560
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 12,
+        "fifty": 4,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 114591708,
+        "max": 114753536,
+        "fifty": 114595840,
+        "ninety": 114626150,
+        "ninetyfive": 114626560
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-burstable.slice": {
+    "timestamp": "2019-07-29T12:11:28.316267634Z",
+    "latest_usage": {
+      "cpu": 33,
+      "memory": 366936064
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 10,
+        "max": 36,
+        "fifty": 4,
+        "ninety": 27,
+        "ninetyfive": 33
+      },
+      "memory": {
+        "present": true,
+        "mean": 366936064,
+        "max": 366936064,
+        "fifty": 366936064,
+        "ninety": 366936064,
+        "ninetyfive": 366936064
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 40,
+        "fifty": 24,
+        "ninety": 27,
+        "ninetyfive": 28
+      },
+      "memory": {
+        "present": true,
+        "mean": 366903731,
+        "max": 367722496,
+        "fifty": 366895104,
+        "ninety": 366936064,
+        "ninetyfive": 366936064
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 9,
+        "max": 40,
+        "fifty": 24,
+        "ninety": 27,
+        "ninetyfive": 28
+      },
+      "memory": {
+        "present": true,
+        "mean": 366903731,
+        "max": 367722496,
+        "fifty": 366895104,
+        "ninety": 366936064,
+        "ninetyfive": 366936064
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-burstable.slice/kubepods-burstable-pod275c3078_c7c8_48c3_b45a_2e6f505e21d4.slice": {
+    "timestamp": "2019-07-29T12:11:28.368599404Z",
+    "latest_usage": {
+      "cpu": 29,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 6,
+        "max": 29,
+        "fifty": 1,
+        "ninety": 22,
+        "ninetyfive": 25
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 6,
+        "max": 39,
+        "fifty": 22,
+        "ninety": 24,
+        "ninetyfive": 25
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 6,
+        "max": 39,
+        "fifty": 22,
+        "ninety": 24,
+        "ninetyfive": 25
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-burstable.slice/kubepods-burstable-pod275c3078_c7c8_48c3_b45a_2e6f505e21d4.slice/docker-50a6ad66b0b363aa72a0b8c2935494e76383d0335b0c13a73ab8ea6412631078.scope": {
+    "timestamp": "2019-07-29T12:11:27.954370584Z",
+    "latest_usage": {
+      "cpu": 19,
+      "memory": 354029568
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 6,
+        "max": 30,
+        "fifty": 1,
+        "ninety": 19,
+        "ninetyfive": 23
+      },
+      "memory": {
+        "present": true,
+        "mean": 354029568,
+        "max": 354029568,
+        "fifty": 354029568,
+        "ninety": 354029568,
+        "ninetyfive": 354029568
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 6,
+        "max": 36,
+        "fifty": 21,
+        "ninety": 25,
+        "ninetyfive": 26
+      },
+      "memory": {
+        "present": true,
+        "mean": 354033014,
+        "max": 354816000,
+        "fifty": 354029568,
+        "ninety": 354029568,
+        "ninetyfive": 354029568
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 6,
+        "max": 36,
+        "fifty": 21,
+        "ninety": 25,
+        "ninetyfive": 26
+      },
+      "memory": {
+        "present": true,
+        "mean": 354033014,
+        "max": 354816000,
+        "fifty": 354029568,
+        "ninety": 354029568,
+        "ninetyfive": 354029568
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-burstable.slice/kubepods-burstable-pod275c3078_c7c8_48c3_b45a_2e6f505e21d4.slice/docker-6526e6dbb9cc2cbada5758329cdaa403fbdb1534531b516028ca68c9c52dda5c.scope": {
+    "timestamp": "2019-07-29T12:11:28.001644811Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 40960
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 40960,
+        "max": 40960,
+        "fifty": 40960,
+        "ninety": 40960,
+        "ninetyfive": 40960
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-burstable.slice/kubepods-burstable-poda3161974_faa5_4722_b019_476a28634c14.slice": {
+    "timestamp": "2019-07-29T12:11:28.335756278Z",
+    "latest_usage": {
+      "cpu": 3,
+      "memory": 12824576
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 8,
+        "fifty": 3,
+        "ninety": 3,
+        "ninetyfive": 3
+      },
+      "memory": {
+        "present": true,
+        "mean": 12824576,
+        "max": 12824576,
+        "fifty": 12824576,
+        "ninety": 12824576,
+        "ninetyfive": 12824576
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 10,
+        "fifty": 3,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 12788225,
+        "max": 12906496,
+        "fifty": 12783616,
+        "ninety": 12824576,
+        "ninetyfive": 12824576
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 10,
+        "fifty": 3,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 12788225,
+        "max": 12906496,
+        "fifty": 12783616,
+        "ninety": 12824576,
+        "ninetyfive": 12824576
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-burstable.slice/kubepods-burstable-poda3161974_faa5_4722_b019_476a28634c14.slice/docker-7ebbef6033636a5aa9965932a801813b63601f127e99702e5a636d583d2eb63e.scope": {
+    "timestamp": "2019-07-29T12:11:27.113086685Z",
+    "latest_usage": {
+      "cpu": 2,
+      "memory": 8155136
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 8,
+        "fifty": 3,
+        "ninety": 3,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 8155136,
+        "max": 8155136,
+        "fifty": 8155136,
+        "ninety": 8155136,
+        "ninetyfive": 8155136
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 10,
+        "fifty": 3,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 8118587,
+        "max": 8237056,
+        "fifty": 8114176,
+        "ninety": 8155136,
+        "ninetyfive": 8155136
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 10,
+        "fifty": 3,
+        "ninety": 4,
+        "ninetyfive": 4
+      },
+      "memory": {
+        "present": true,
+        "mean": 8118587,
+        "max": 8237056,
+        "fifty": 8114176,
+        "ninety": 8155136,
+        "ninetyfive": 8155136
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-burstable.slice/kubepods-burstable-poda3161974_faa5_4722_b019_476a28634c14.slice/docker-b9628d5935fa15af289985b366f0fc0433e0176f136918bc002dbc564c438e61.scope": {
+    "timestamp": "2019-07-29T12:11:27.27627593Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 45056
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-pod454ada1f_3576_4cdf_abe4_e183eddf15bb.slice": {
+    "timestamp": "2019-07-29T12:11:26.69094788Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 15101952
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 9,
+        "fifty": 0,
+        "ninety": 4,
+        "ninetyfive": 6
+      },
+      "memory": {
+        "present": true,
+        "mean": 15206894,
+        "max": 15364096,
+        "fifty": 15175680,
+        "ninety": 15355904,
+        "ninetyfive": 15360000
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 11,
+        "fifty": 5,
+        "ninety": 6,
+        "ninetyfive": 6
+      },
+      "memory": {
+        "present": true,
+        "mean": 15241179,
+        "max": 15548416,
+        "fifty": 15334195,
+        "ninety": 15413248,
+        "ninetyfive": 15431454
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 11,
+        "fifty": 5,
+        "ninety": 6,
+        "ninetyfive": 6
+      },
+      "memory": {
+        "present": true,
+        "mean": 15241179,
+        "max": 15548416,
+        "fifty": 15334195,
+        "ninety": 15413248,
+        "ninetyfive": 15431454
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-pod454ada1f_3576_4cdf_abe4_e183eddf15bb.slice/docker-1fbaf4ee548b6e3ca78aa835cb778ea60b38dea1e5629e72bd77772600ee01cf.scope": {
+    "timestamp": "2019-07-29T12:11:26.793564391Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 15024128
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 12,
+        "fifty": 0,
+        "ninety": 8,
+        "ninetyfive": 10
+      },
+      "memory": {
+        "present": true,
+        "mean": 15122176,
+        "max": 15261696,
+        "fifty": 15097856,
+        "ninety": 15192064,
+        "ninetyfive": 15219097
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 13,
+        "fifty": 5,
+        "ninety": 5,
+        "ninetyfive": 6
+      },
+      "memory": {
+        "present": true,
+        "mean": 15160966,
+        "max": 15470592,
+        "fifty": 15203123,
+        "ninety": 15356108,
+        "ninetyfive": 15378144
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 13,
+        "fifty": 5,
+        "ninety": 5,
+        "ninetyfive": 6
+      },
+      "memory": {
+        "present": true,
+        "mean": 15160966,
+        "max": 15470592,
+        "fifty": 15203123,
+        "ninety": 15356108,
+        "ninetyfive": 15378144
+      }
+    }
+  },
+  "/kubepods.slice/kubepods-pod454ada1f_3576_4cdf_abe4_e183eddf15bb.slice/docker-3af324e43972fcf9da6331d129e6b31ebf3ff9c5d8d18fdc58d3c16b6c67d4b9.scope": {
+    "timestamp": "2019-07-29T12:11:27.050681486Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 45056
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 45056,
+        "max": 45056,
+        "fifty": 45056,
+        "ninety": 45056,
+        "ninetyfive": 45056
+      }
+    }
+  },
+  "/system.slice": {
+    "timestamp": "2019-07-29T12:11:27.663341771Z",
+    "latest_usage": {
+      "cpu": 414,
+      "memory": 1726275584
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 219,
+        "max": 546,
+        "fifty": 143,
+        "ninety": 421,
+        "ninetyfive": 508
+      },
+      "memory": {
+        "present": true,
+        "mean": 1726530869,
+        "max": 1745629184,
+        "fifty": 1725726720,
+        "ninety": 1729966080,
+        "ninetyfive": 1730993356
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 226,
+        "max": 1131,
+        "fifty": 431,
+        "ninety": 473,
+        "ninetyfive": 495
+      },
+      "memory": {
+        "present": true,
+        "mean": 1730305560,
+        "max": 1775796224,
+        "fifty": 1731870310,
+        "ninety": 1741906410,
+        "ninetyfive": 1744241376
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 226,
+        "max": 1131,
+        "fifty": 431,
+        "ninety": 473,
+        "ninetyfive": 495
+      },
+      "memory": {
+        "present": true,
+        "mean": 1730305560,
+        "max": 1775796224,
+        "fifty": 1731870310,
+        "ninety": 1741906410,
+        "ninetyfive": 1744241376
+      }
+    }
+  },
+  "/system.slice/ModemManager.service": {
+    "timestamp": "2019-07-29T12:10:49.233497129Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 2179072
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2179072,
+        "max": 2179072,
+        "fifty": 2179072,
+        "ninety": 2179072,
+        "ninetyfive": 2179072
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2179072,
+        "max": 2179072,
+        "fifty": 2179072,
+        "ninety": 2179072,
+        "ninetyfive": 2179072
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2179072,
+        "max": 2179072,
+        "fifty": 2179072,
+        "ninety": 2179072,
+        "ninetyfive": 2179072
+      }
+    }
+  },
+  "/system.slice/NetworkManager-wait-online.service": {
+    "timestamp": "2019-07-29T12:10:44.295837391Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/NetworkManager.service": {
+    "timestamp": "2019-07-29T12:11:04.160737819Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 8187904
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 8187904,
+        "max": 8187904,
+        "fifty": 8187904,
+        "ninety": 8187904,
+        "ninetyfive": 8187904
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 3,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 8176152,
+        "max": 8187904,
+        "fifty": 8175616,
+        "ninety": 8183808,
+        "ninetyfive": 8187904
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 3,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 8176152,
+        "max": 8187904,
+        "fifty": 8175616,
+        "ninety": 8183808,
+        "ninetyfive": 8187904
+      }
+    }
+  },
+  "/system.slice/abrt-ccpp.service": {
+    "timestamp": "2019-07-29T12:11:16.001827365Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/abrt-oops.service": {
+    "timestamp": "2019-07-29T12:11:27.240725117Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1720320
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1720320,
+        "max": 1720320,
+        "fifty": 1720320,
+        "ninety": 1720320,
+        "ninetyfive": 1720320
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1720320,
+        "max": 1720320,
+        "fifty": 1720320,
+        "ninety": 1720320,
+        "ninetyfive": 1720320
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1720320,
+        "max": 1720320,
+        "fifty": 1720320,
+        "ninety": 1720320,
+        "ninetyfive": 1720320
+      }
+    }
+  },
+  "/system.slice/abrt-xorg.service": {
+    "timestamp": "2019-07-29T12:11:14.733046553Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1957888
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1957888,
+        "max": 1957888,
+        "fifty": 1957888,
+        "ninety": 1957888,
+        "ninetyfive": 1957888
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1957888,
+        "max": 1957888,
+        "fifty": 1957888,
+        "ninety": 1957888,
+        "ninetyfive": 1957888
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1957888,
+        "max": 1957888,
+        "fifty": 1957888,
+        "ninety": 1957888,
+        "ninetyfive": 1957888
+      }
+    }
+  },
+  "/system.slice/abrtd.service": {
+    "timestamp": "2019-07-29T12:11:22.696763955Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 2584576
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2584576,
+        "max": 2584576,
+        "fifty": 2584576,
+        "ninety": 2584576,
+        "ninetyfive": 2584576
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2584576,
+        "max": 2584576,
+        "fifty": 2584576,
+        "ninety": 2584576,
+        "ninetyfive": 2584576
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2584576,
+        "max": 2584576,
+        "fifty": 2584576,
+        "ninety": 2584576,
+        "ninetyfive": 2584576
+      }
+    }
+  },
+  "/system.slice/accounts-daemon.service": {
+    "timestamp": "2019-07-29T12:11:25.688859365Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1961984
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1961984,
+        "max": 1961984,
+        "fifty": 1961984,
+        "ninety": 1961984,
+        "ninetyfive": 1961984
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1961984,
+        "max": 1961984,
+        "fifty": 1961984,
+        "ninety": 1961984,
+        "ninetyfive": 1961984
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1961984,
+        "max": 1961984,
+        "fifty": 1961984,
+        "ninety": 1961984,
+        "ninetyfive": 1961984
+      }
+    }
+  },
+  "/system.slice/alsa-state.service": {
+    "timestamp": "2019-07-29T12:09:41.712314919Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 405504
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 405504,
+        "max": 405504,
+        "fifty": 405504,
+        "ninety": 405504,
+        "ninetyfive": 405504
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 405504,
+        "max": 405504,
+        "fifty": 405504,
+        "ninety": 405504,
+        "ninetyfive": 405504
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 405504,
+        "max": 405504,
+        "fifty": 405504,
+        "ninety": 405504,
+        "ninetyfive": 405504
+      }
+    }
+  },
+  "/system.slice/atd.service": {
+    "timestamp": "2019-07-29T12:10:58.325561633Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 237568
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 237568,
+        "max": 237568,
+        "fifty": 237568,
+        "ninety": 237568,
+        "ninetyfive": 237568
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 237568,
+        "max": 237568,
+        "fifty": 237568,
+        "ninety": 237568,
+        "ninetyfive": 237568
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 237568,
+        "max": 237568,
+        "fifty": 237568,
+        "ninety": 237568,
+        "ninetyfive": 237568
+      }
+    }
+  },
+  "/system.slice/auditd.service": {
+    "timestamp": "2019-07-29T12:11:27.802861118Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 20414464
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 20413317,
+        "max": 20414464,
+        "fifty": 20414464,
+        "ninety": 20414464,
+        "ninetyfive": 20414464
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 20339081,
+        "max": 20520960,
+        "fifty": 20342784,
+        "ninety": 20401766,
+        "ninetyfive": 20406272
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 20339081,
+        "max": 20520960,
+        "fifty": 20342784,
+        "ninety": 20401766,
+        "ninetyfive": 20406272
+      }
+    }
+  },
+  "/system.slice/avahi-daemon.service": {
+    "timestamp": "2019-07-29T12:11:27.209245694Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1048576
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 1,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 1048576,
+        "max": 1048576,
+        "fifty": 1048576,
+        "ninety": 1048576,
+        "ninetyfive": 1048576
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 2,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 1048576,
+        "max": 1048576,
+        "fifty": 1048576,
+        "ninety": 1048576,
+        "ninetyfive": 1048576
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 2,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 1048576,
+        "max": 1048576,
+        "fifty": 1048576,
+        "ninety": 1048576,
+        "ninetyfive": 1048576
+      }
+    }
+  },
+  "/system.slice/blk-availability.service": {
+    "timestamp": "2019-07-29T12:11:19.353786592Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/chronyd.service": {
+    "timestamp": "2019-07-29T12:11:03.175927731Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 741376
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 741376,
+        "max": 741376,
+        "fifty": 741376,
+        "ninety": 741376,
+        "ninetyfive": 741376
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 741376,
+        "max": 741376,
+        "fifty": 741376,
+        "ninety": 741376,
+        "ninetyfive": 741376
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 741376,
+        "max": 741376,
+        "fifty": 741376,
+        "ninety": 741376,
+        "ninetyfive": 741376
+      }
+    }
+  },
+  "/system.slice/cloud-config.service": {
+    "timestamp": "2019-07-29T12:09:39.120811674Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/cloud-final.service": {
+    "timestamp": "2019-07-29T12:10:30.202745777Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/cloud-init-local.service": {
+    "timestamp": "2019-07-29T12:11:27.931556558Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/cloud-init.service": {
+    "timestamp": "2019-07-29T12:11:12.803730656Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/containerd.service": {
+    "timestamp": "2019-07-29T12:11:27.355453387Z",
+    "latest_usage": {
+      "cpu": 118,
+      "memory": 177168384
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 60,
+        "max": 269,
+        "fifty": 1,
+        "ninety": 247,
+        "ninetyfive": 268
+      },
+      "memory": {
+        "present": true,
+        "mean": 173422425,
+        "max": 178208768,
+        "fifty": 173072384,
+        "ninety": 174265958,
+        "ninetyfive": 178157158
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 56,
+        "max": 303,
+        "fifty": 186,
+        "ninety": 219,
+        "ninetyfive": 230
+      },
+      "memory": {
+        "present": true,
+        "mean": 173506567,
+        "max": 197636096,
+        "fifty": 173819698,
+        "ninety": 178020106,
+        "ninetyfive": 178146446
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 56,
+        "max": 303,
+        "fifty": 186,
+        "ninety": 219,
+        "ninetyfive": 230
+      },
+      "memory": {
+        "present": true,
+        "mean": 173506567,
+        "max": 197636096,
+        "fifty": 173819698,
+        "ninety": 178020106,
+        "ninetyfive": 178146446
+      }
+    }
+  },
+  "/system.slice/crond.service": {
+    "timestamp": "2019-07-29T12:11:28.090325777Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 872448
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 872448,
+        "max": 872448,
+        "fifty": 872448,
+        "ninety": 872448,
+        "ninetyfive": 872448
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 3,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 872448,
+        "max": 872448,
+        "fifty": 872448,
+        "ninety": 872448,
+        "ninetyfive": 872448
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 3,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 872448,
+        "max": 872448,
+        "fifty": 872448,
+        "ninety": 872448,
+        "ninetyfive": 872448
+      }
+    }
+  },
+  "/system.slice/cups.service": {
+    "timestamp": "2019-07-29T12:11:07.561446228Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1617920
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1617920,
+        "max": 1617920,
+        "fifty": 1617920,
+        "ninety": 1617920,
+        "ninetyfive": 1617920
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1617920,
+        "max": 1617920,
+        "fifty": 1617920,
+        "ninety": 1617920,
+        "ninetyfive": 1617920
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1617920,
+        "max": 1617920,
+        "fifty": 1617920,
+        "ninety": 1617920,
+        "ninetyfive": 1617920
+      }
+    }
+  },
+  "/system.slice/dbus.service": {
+    "timestamp": "2019-07-29T12:11:28.183053993Z",
+    "latest_usage": {
+      "cpu": 16,
+      "memory": 2088960
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 7,
+        "max": 27,
+        "fifty": 0,
+        "ninety": 21,
+        "ninetyfive": 25
+      },
+      "memory": {
+        "present": true,
+        "mean": 2088960,
+        "max": 2088960,
+        "fifty": 2088960,
+        "ninety": 2088960,
+        "ninetyfive": 2088960
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 7,
+        "max": 46,
+        "fifty": 19,
+        "ninety": 23,
+        "ninetyfive": 27
+      },
+      "memory": {
+        "present": true,
+        "mean": 2088960,
+        "max": 2088960,
+        "fifty": 2088960,
+        "ninety": 2088960,
+        "ninetyfive": 2088960
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 7,
+        "max": 46,
+        "fifty": 19,
+        "ninety": 23,
+        "ninetyfive": 27
+      },
+      "memory": {
+        "present": true,
+        "mean": 2088960,
+        "max": 2088960,
+        "fifty": 2088960,
+        "ninety": 2088960,
+        "ninetyfive": 2088960
+      }
+    }
+  },
+  "/system.slice/docker-32029ed53753a43adf90bf12a82128c38c34f5749c8aac7397146eb795201945.scope": {
+    "timestamp": "2019-07-29T12:11:27.311328787Z",
+    "latest_usage": {
+      "cpu": 70,
+      "memory": 149807104
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 90,
+        "max": 163,
+        "fifty": 83,
+        "ninety": 148,
+        "ninetyfive": 156
+      },
+      "memory": {
+        "present": true,
+        "mean": 149096398,
+        "max": 149557248,
+        "fifty": 148996096,
+        "ninety": 149364736,
+        "ninetyfive": 149533081
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 88,
+        "max": 236,
+        "fifty": 133,
+        "ninety": 150,
+        "ninetyfive": 155
+      },
+      "memory": {
+        "present": true,
+        "mean": 149826664,
+        "max": 152096768,
+        "fifty": 149555200,
+        "ninety": 151961353,
+        "ninetyfive": 151972208
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 88,
+        "max": 236,
+        "fifty": 133,
+        "ninety": 150,
+        "ninetyfive": 155
+      },
+      "memory": {
+        "present": true,
+        "mean": 149826664,
+        "max": 152096768,
+        "fifty": 149555200,
+        "ninety": 151961353,
+        "ninetyfive": 151972208
+      }
+    }
+  },
+  "/system.slice/docker.service": {
+    "timestamp": "2019-07-29T12:11:27.804150143Z",
+    "latest_usage": {
+      "cpu": 27,
+      "memory": 357580800
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 20,
+        "max": 41,
+        "fifty": 19,
+        "ninety": 29,
+        "ninetyfive": 36
+      },
+      "memory": {
+        "present": true,
+        "mean": 357572208,
+        "max": 357580800,
+        "fifty": 357572608,
+        "ninety": 357576704,
+        "ninetyfive": 357580800
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 20,
+        "max": 60,
+        "fifty": 33,
+        "ninety": 37,
+        "ninetyfive": 39
+      },
+      "memory": {
+        "present": true,
+        "mean": 357186077,
+        "max": 357605376,
+        "fifty": 357150720,
+        "ninety": 357518540,
+        "ninetyfive": 357547622
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 20,
+        "max": 60,
+        "fifty": 33,
+        "ninety": 37,
+        "ninetyfive": 39
+      },
+      "memory": {
+        "present": true,
+        "mean": 357186077,
+        "max": 357605376,
+        "fifty": 357150720,
+        "ninety": 357518540,
+        "ninetyfive": 357547622
+      }
+    }
+  },
+  "/system.slice/falcon-sensor.service": {
+    "timestamp": "2019-07-29T12:11:27.587616779Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 7278592
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 7278592,
+        "max": 7278592,
+        "fifty": 7278592,
+        "ninety": 7278592,
+        "ninetyfive": 7278592
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 7274133,
+        "max": 7397376,
+        "fifty": 7274496,
+        "ninety": 7278592,
+        "ninetyfive": 7278592
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 7274133,
+        "max": 7397376,
+        "fifty": 7274496,
+        "ninety": 7278592,
+        "ninetyfive": 7278592
+      }
+    }
+  },
+  "/system.slice/gdm.service": {
+    "timestamp": "2019-07-29T12:11:17.82841763Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1499136
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1499136,
+        "max": 1499136,
+        "fifty": 1499136,
+        "ninety": 1499136,
+        "ninetyfive": 1499136
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1499136,
+        "max": 1499136,
+        "fifty": 1499136,
+        "ninety": 1499136,
+        "ninetyfive": 1499136
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1499136,
+        "max": 1499136,
+        "fifty": 1499136,
+        "ninety": 1499136,
+        "ninetyfive": 1499136
+      }
+    }
+  },
+  "/system.slice/gssproxy.service": {
+    "timestamp": "2019-07-29T12:11:27.092316655Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 831488
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 831488,
+        "max": 831488,
+        "fifty": 831488,
+        "ninety": 831488,
+        "ninetyfive": 831488
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 831488,
+        "max": 831488,
+        "fifty": 831488,
+        "ninety": 831488,
+        "ninetyfive": 831488
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 831488,
+        "max": 831488,
+        "fifty": 831488,
+        "ninety": 831488,
+        "ninetyfive": 831488
+      }
+    }
+  },
+  "/system.slice/irqbalance.service": {
+    "timestamp": "2019-07-29T12:11:27.794566477Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 258048
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 264192,
+        "max": 380928,
+        "fifty": 258048,
+        "ninety": 258048,
+        "ninetyfive": 374783
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 262425,
+        "max": 380928,
+        "fifty": 258048,
+        "ninety": 368640,
+        "ninetyfive": 380928
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 262425,
+        "max": 380928,
+        "fifty": 258048,
+        "ninety": 368640,
+        "ninetyfive": 380928
+      }
+    }
+  },
+  "/system.slice/iscsi-shutdown.service": {
+    "timestamp": "2019-07-29T12:10:34.527139727Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/kdump.service": {
+    "timestamp": "2019-07-29T12:10:36.427825251Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/kmod-static-nodes.service": {
+    "timestamp": "2019-07-29T12:10:46.541984347Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/ksm.service": {
+    "timestamp": "2019-07-29T12:11:27.463778335Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/ksmtuned.service": {
+    "timestamp": "2019-07-29T12:11:19.42620428Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1085440
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 2,
+        "fifty": 0,
+        "ninety": 2,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 1088512,
+        "max": 1089536,
+        "fifty": 1089536,
+        "ninety": 1089536,
+        "ninetyfive": 1089536
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 15,
+        "fifty": 1,
+        "ninety": 2,
+        "ninetyfive": 3
+      },
+      "memory": {
+        "present": true,
+        "mean": 1087562,
+        "max": 1171456,
+        "fifty": 1089536,
+        "ninety": 1089536,
+        "ninetyfive": 1124556
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 15,
+        "fifty": 1,
+        "ninety": 2,
+        "ninetyfive": 3
+      },
+      "memory": {
+        "present": true,
+        "mean": 1087562,
+        "max": 1171456,
+        "fifty": 1089536,
+        "ninety": 1089536,
+        "ninetyfive": 1124556
+      }
+    }
+  },
+  "/system.slice/kubelet.service": {
+    "timestamp": "2019-07-29T12:11:28.08178209Z",
+    "latest_usage": {
+      "cpu": 39,
+      "memory": 157007872
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 35,
+        "max": 89,
+        "fifty": 31,
+        "ninety": 58,
+        "ninetyfive": 84
+      },
+      "memory": {
+        "present": true,
+        "mean": 157008371,
+        "max": 157020160,
+        "fifty": 157007872,
+        "ninety": 157007872,
+        "ninetyfive": 157011968
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 35,
+        "max": 151,
+        "fifty": 56,
+        "ninety": 67,
+        "ninetyfive": 70
+      },
+      "memory": {
+        "present": true,
+        "mean": 156281705,
+        "max": 157159424,
+        "fifty": 156401664,
+        "ninety": 157037363,
+        "ninetyfive": 157113958
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 35,
+        "max": 151,
+        "fifty": 56,
+        "ninety": 67,
+        "ninetyfive": 70
+      },
+      "memory": {
+        "present": true,
+        "mean": 156281705,
+        "max": 157159424,
+        "fifty": 156401664,
+        "ninety": 157037363,
+        "ninetyfive": 157113958
+      }
+    }
+  },
+  "/system.slice/libstoragemgmt.service": {
+    "timestamp": "2019-07-29T12:11:26.478959114Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 495616
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 495616,
+        "max": 495616,
+        "fifty": 495616,
+        "ninety": 495616,
+        "ninetyfive": 495616
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 495616,
+        "max": 495616,
+        "fifty": 495616,
+        "ninety": 495616,
+        "ninetyfive": 495616
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 495616,
+        "max": 495616,
+        "fifty": 495616,
+        "ninety": 495616,
+        "ninetyfive": 495616
+      }
+    }
+  },
+  "/system.slice/libvirtd.service": {
+    "timestamp": "2019-07-29T12:11:08.138728911Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 6721536
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 6721536,
+        "max": 6721536,
+        "fifty": 6721536,
+        "ninety": 6721536,
+        "ninetyfive": 6721536
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 6721536,
+        "max": 6721536,
+        "fifty": 6721536,
+        "ninety": 6721536,
+        "ninetyfive": 6721536
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 6721536,
+        "max": 6721536,
+        "fifty": 6721536,
+        "ninety": 6721536,
+        "ninetyfive": 6721536
+      }
+    }
+  },
+  "/system.slice/lvm2-lvmetad.service": {
+    "timestamp": "2019-07-29T12:11:26.898374573Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 339968
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 339968,
+        "max": 339968,
+        "fifty": 339968,
+        "ninety": 339968,
+        "ninetyfive": 339968
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 339968,
+        "max": 339968,
+        "fifty": 339968,
+        "ninety": 339968,
+        "ninetyfive": 339968
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 339968,
+        "max": 339968,
+        "fifty": 339968,
+        "ninety": 339968,
+        "ninetyfive": 339968
+      }
+    }
+  },
+  "/system.slice/lvm2-monitor.service": {
+    "timestamp": "2019-07-29T12:10:50.733654966Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/netcf-transaction.service": {
+    "timestamp": "2019-07-29T12:11:05.683361191Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/network.service": {
+    "timestamp": "2019-07-29T12:10:35.986043094Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/polkit.service": {
+    "timestamp": "2019-07-29T12:11:27.558792888Z",
+    "latest_usage": {
+      "cpu": 1,
+      "memory": 10752000
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 4,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 3
+      },
+      "memory": {
+        "present": true,
+        "mean": 10752000,
+        "max": 10752000,
+        "fifty": 10752000,
+        "ninety": 10752000,
+        "ninetyfive": 10752000
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 4,
+        "fifty": 1,
+        "ninety": 1,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 10752000,
+        "max": 10752000,
+        "fifty": 10752000,
+        "ninety": 10752000,
+        "ninetyfive": 10752000
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 4,
+        "fifty": 1,
+        "ninety": 1,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 10752000,
+        "max": 10752000,
+        "fifty": 10752000,
+        "ninety": 10752000,
+        "ninetyfive": 10752000
+      }
+    }
+  },
+  "/system.slice/postfix.service": {
+    "timestamp": "2019-07-29T12:11:17.352501277Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 5488640
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 5488640,
+        "max": 5488640,
+        "fifty": 5488640,
+        "ninety": 5488640,
+        "ninetyfive": 5488640
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 5488640,
+        "max": 5488640,
+        "fifty": 5488640,
+        "ninety": 5488640,
+        "ninetyfive": 5488640
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 5488640,
+        "max": 5488640,
+        "fifty": 5488640,
+        "ninety": 5488640,
+        "ninetyfive": 5488640
+      }
+    }
+  },
+  "/system.slice/puppet.service": {
+    "timestamp": "2019-07-29T12:11:25.296690097Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 61059072
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 61059072,
+        "max": 61059072,
+        "fifty": 61059072,
+        "ninety": 61059072,
+        "ninetyfive": 61059072
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 800,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 61024477,
+        "max": 128352256,
+        "fifty": 60801024,
+        "ninety": 61059072,
+        "ninetyfive": 61059072
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 800,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 61024477,
+        "max": 128352256,
+        "fifty": 60801024,
+        "ninety": 61059072,
+        "ninetyfive": 61059072
+      }
+    }
+  },
+  "/system.slice/rhel-autorelabel-mark.service": {
+    "timestamp": "2019-07-29T12:10:46.504515504Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/rhel-dmesg.service": {
+    "timestamp": "2019-07-29T12:11:12.839809203Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/rhel-domainname.service": {
+    "timestamp": "2019-07-29T12:10:53.241519695Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/rhel-import-state.service": {
+    "timestamp": "2019-07-29T12:11:20.610887073Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/rhel-readonly.service": {
+    "timestamp": "2019-07-29T12:11:04.090772795Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/rngd.service": {
+    "timestamp": "2019-07-29T12:11:27.703164424Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 217088
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 217088,
+        "max": 217088,
+        "fifty": 217088,
+        "ninety": 217088,
+        "ninetyfive": 217088
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 217088,
+        "max": 217088,
+        "fifty": 217088,
+        "ninety": 217088,
+        "ninetyfive": 217088
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 217088,
+        "max": 217088,
+        "fifty": 217088,
+        "ninety": 217088,
+        "ninetyfive": 217088
+      }
+    }
+  },
+  "/system.slice/rsyslog.service": {
+    "timestamp": "2019-07-29T12:11:27.192688705Z",
+    "latest_usage": {
+      "cpu": 1,
+      "memory": 357363712
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 7,
+        "fifty": 0,
+        "ninety": 5,
+        "ninetyfive": 5
+      },
+      "memory": {
+        "present": true,
+        "mean": 357302653,
+        "max": 357330944,
+        "fifty": 357302272,
+        "ninety": 357326848,
+        "ninetyfive": 357330124
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 14,
+        "fifty": 5,
+        "ninety": 6,
+        "ninetyfive": 6
+      },
+      "memory": {
+        "present": true,
+        "mean": 355707871,
+        "max": 357384192,
+        "fifty": 355751321,
+        "ninety": 357104599,
+        "ninetyfive": 357213593
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 1,
+        "max": 14,
+        "fifty": 5,
+        "ninety": 6,
+        "ninetyfive": 6
+      },
+      "memory": {
+        "present": true,
+        "mean": 355707871,
+        "max": 357384192,
+        "fifty": 355751321,
+        "ninety": 357104599,
+        "ninetyfive": 357213593
+      }
+    }
+  },
+  "/system.slice/rtkit-daemon.service": {
+    "timestamp": "2019-07-29T12:11:26.644087269Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 401408
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 401408,
+        "max": 401408,
+        "fifty": 401408,
+        "ninety": 401408,
+        "ninetyfive": 401408
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 401408,
+        "max": 401408,
+        "fifty": 401408,
+        "ninety": 401408,
+        "ninetyfive": 401408
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 401408,
+        "max": 401408,
+        "fifty": 401408,
+        "ninety": 401408,
+        "ninetyfive": 401408
+      }
+    }
+  },
+  "/system.slice/smartd.service": {
+    "timestamp": "2019-07-29T12:11:14.21285313Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 1236992
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1236992,
+        "max": 1236992,
+        "fifty": 1236992,
+        "ninety": 1236992,
+        "ninetyfive": 1236992
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1236992,
+        "max": 1236992,
+        "fifty": 1236992,
+        "ninety": 1236992,
+        "ninetyfive": 1236992
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 1236992,
+        "max": 1236992,
+        "fifty": 1236992,
+        "ninety": 1236992,
+        "ninetyfive": 1236992
+      }
+    }
+  },
+  "/system.slice/sshd.service": {
+    "timestamp": "2019-07-29T12:10:38.044853405Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 2916352
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2916352,
+        "max": 2916352,
+        "fifty": 2916352,
+        "ninety": 2916352,
+        "ninetyfive": 2916352
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2916352,
+        "max": 2916352,
+        "fifty": 2916352,
+        "ninety": 2916352,
+        "ninetyfive": 2916352
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 2916352,
+        "max": 2916352,
+        "fifty": 2916352,
+        "ninety": 2916352,
+        "ninetyfive": 2916352
+      }
+    }
+  },
+  "/system.slice/sysstat.service": {
+    "timestamp": "2019-07-29T12:10:49.788235128Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/system-getty.slice": {
+    "timestamp": "2019-07-29T12:11:24.64412918Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/system-selinux\\x2dpolicy\\x2dmigrate\\x2dlocal\\x2dchanges.slice": {
+    "timestamp": "2019-07-29T12:11:07.705292711Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-fsck-root.service": {
+    "timestamp": "2019-07-29T12:11:21.816428212Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-journal-flush.service": {
+    "timestamp": "2019-07-29T12:10:49.02690207Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-journald.service": {
+    "timestamp": "2019-07-29T12:11:25.714530832Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 183320576
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 3,
+        "max": 12,
+        "fifty": 0,
+        "ninety": 9,
+        "ninetyfive": 11
+      },
+      "memory": {
+        "present": true,
+        "mean": 183337242,
+        "max": 183427072,
+        "fifty": 183320576,
+        "ninety": 183402496,
+        "ninetyfive": 183414784
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 20,
+        "fifty": 9,
+        "ninety": 11,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 189671979,
+        "max": 199933952,
+        "fifty": 191791104,
+        "ninety": 199845150,
+        "ninetyfive": 199852032
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 2,
+        "max": 20,
+        "fifty": 9,
+        "ninety": 11,
+        "ninetyfive": 12
+      },
+      "memory": {
+        "present": true,
+        "mean": 189671979,
+        "max": 199933952,
+        "fifty": 191791104,
+        "ninety": 199845150,
+        "ninetyfive": 199852032
+      }
+    }
+  },
+  "/system.slice/systemd-logind.service": {
+    "timestamp": "2019-07-29T12:11:24.58069448Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 675840
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 1,
+        "fifty": 0,
+        "ninety": 1,
+        "ninetyfive": 1
+      },
+      "memory": {
+        "present": true,
+        "mean": 675840,
+        "max": 675840,
+        "fifty": 675840,
+        "ninety": 675840,
+        "ninetyfive": 675840
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 3,
+        "fifty": 1,
+        "ninety": 1,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 675845,
+        "max": 684032,
+        "fifty": 675840,
+        "ninety": 675840,
+        "ninetyfive": 675840
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 3,
+        "fifty": 1,
+        "ninety": 1,
+        "ninetyfive": 2
+      },
+      "memory": {
+        "present": true,
+        "mean": 675845,
+        "max": 684032,
+        "fifty": 675840,
+        "ninety": 675840,
+        "ninetyfive": 675840
+      }
+    }
+  },
+  "/system.slice/systemd-random-seed.service": {
+    "timestamp": "2019-07-29T12:11:10.684522431Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-remount-fs.service": {
+    "timestamp": "2019-07-29T12:11:15.188765485Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-sysctl.service": {
+    "timestamp": "2019-07-29T12:11:05.872210092Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-tmpfiles-setup-dev.service": {
+    "timestamp": "2019-07-29T12:09:58.610363826Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-tmpfiles-setup.service": {
+    "timestamp": "2019-07-29T12:10:43.939696939Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-udev-settle.service": {
+    "timestamp": "2019-07-29T12:11:06.38397637Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-udev-trigger.service": {
+    "timestamp": "2019-07-29T12:11:27.635837123Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-udevd.service": {
+    "timestamp": "2019-07-29T12:11:26.912488911Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 4694016
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 4694016,
+        "max": 4694016,
+        "fifty": 4694016,
+        "ninety": 4694016,
+        "ninetyfive": 4694016
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 4694016,
+        "max": 4694016,
+        "fifty": 4694016,
+        "ninety": 4694016,
+        "ninetyfive": 4694016
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 4694016,
+        "max": 4694016,
+        "fifty": 4694016,
+        "ninety": 4694016,
+        "ninetyfive": 4694016
+      }
+    }
+  },
+  "/system.slice/systemd-update-utmp.service": {
+    "timestamp": "2019-07-29T12:10:54.455440032Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-user-sessions.service": {
+    "timestamp": "2019-07-29T12:11:09.528503147Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/systemd-vconsole-setup.service": {
+    "timestamp": "2019-07-29T12:11:09.436624238Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 0
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      }
+    }
+  },
+  "/system.slice/tuned.service": {
+    "timestamp": "2019-07-29T12:11:27.435303863Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 11882496
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 11882496,
+        "max": 11882496,
+        "fifty": 11882496,
+        "ninety": 11882496,
+        "ninetyfive": 11882496
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 2,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 11882496,
+        "max": 11882496,
+        "fifty": 11882496,
+        "ninety": 11882496,
+        "ninetyfive": 11882496
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 2,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 11882496,
+        "max": 11882496,
+        "fifty": 11882496,
+        "ninety": 11882496,
+        "ninetyfive": 11882496
+      }
+    }
+  },
+  "/user.slice": {
+    "timestamp": "2019-07-29T12:11:17.110686153Z",
+    "latest_usage": {
+      "cpu": 0,
+      "memory": 69574656
+    },
+    "minute_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 0,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 69570560,
+        "max": 69574656,
+        "fifty": 69566464,
+        "ninety": 69574656,
+        "ninetyfive": 69574656
+      }
+    },
+    "hour_usage": {
+      "percent_complete": 100,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 1,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 69542144,
+        "max": 69574656,
+        "fifty": 69541888,
+        "ninety": 69566464,
+        "ninetyfive": 69566464
+      }
+    },
+    "day_usage": {
+      "percent_complete": 4,
+      "cpu": {
+        "present": true,
+        "mean": 0,
+        "max": 1,
+        "fifty": 0,
+        "ninety": 0,
+        "ninetyfive": 0
+      },
+      "memory": {
+        "present": true,
+        "mean": 69542144,
+        "max": 69574656,
+        "fifty": 69541888,
+        "ninety": 69566464,
+        "ninetyfive": 69566464
+      }
+    }
+  }
+}
