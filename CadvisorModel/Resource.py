@@ -49,7 +49,7 @@ class ContainerModel(object):
         return value
 
     def INIT(self):
-        self.CollectList = []
+        _CollectList = []
         for key, spec in self.containerset.items():
             StatsList = []
             if spec['spec'].get('labels', "UNKNOWN") != "UNKNOWN":
@@ -68,11 +68,17 @@ class ContainerModel(object):
                     StatsList.append(DIC)
 
             if spec['spec'].get('labels', "UNKNOWN") != "UNKNOWN":
-                self.CollectList.append(
+                _CollectList.append(
                     {"PODNAME": spec['spec'].get('labels').get("io.kubernetes.pod.name"), "KEY": key,
                      "STATS": StatsList})
-        # for item in self.CollectList:
-        #     LOG.debug("Pod: %s, item)
+        self.CollectList = []
+        for item in _CollectList:
+            _tmp_list = []
+            STAT_LIST = item['STATS']
+            for CPU in STAT_LIST:
+                _tmp_list.append(CPU['cpu_usage'])
+            if (len(list(set(_tmp_list)))) > 1:
+                self.CollectList.append(item)
         return self
 
 
