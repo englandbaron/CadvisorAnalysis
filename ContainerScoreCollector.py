@@ -8,13 +8,22 @@
 @time: 2019-08-02 19:17
 """
 from __future__ import division
+import sys
+import argparse
 import dateutil.parser
 from datetime import datetime
 
 from CadvisorModel.ProjectWorkspace import ProjectWorkspace
 
-# workspace = ProjectWorkspace("HTTP", "http://node1:8080")
-workspace = ProjectWorkspace("FILE","2019_08_07_20_26_03/")
+parser = argparse.ArgumentParser(description="Resource Fetching Method")
+parser.add_argument('-m', '--method',help="""Resource Type(HTTP/FILE)""")
+parser.add_argument('-i', '--item',help="""The Resource Item""")
+args = parser.parse_args()
+if not args.item:
+    parser.print_help()
+    sys.stderr.write("\nExample: \n  python ContainerScoreCollector.py -m HTTP -i http://node1:8080\n")
+    sys.exit()
+workspace = ProjectWorkspace(args.method, args.item)
 ContainerStatParser = workspace.ContainerStatParser()
 
 for stats in ContainerStatParser.CollectList:
