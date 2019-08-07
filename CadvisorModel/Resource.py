@@ -28,7 +28,7 @@ class MachinestatModel(object):
             DIC = {}
             DIC['time'] = machineinfo['timestamp']
             DIC['cpu_usage'] = machineinfo['cpu']['usage']['total']
-            DIC['cpu_percent'] = machineinfo['cpu']['usage']['user'] / machineinfo['cpu']['usage']['total']
+            # DIC['cpu_percent'] = machineinfo['cpu']['usage']['user'] / machineinfo['cpu']['usage']['total']
             DIC['cpu_nodes'] = machineinfo['cpu']['usage']['per_cpu_usage']
             DIC['txb'] = [network_interface['tx_bytes'] for network_interface in machineinfo['network']['interfaces'] if
                           network_interface['name'] in ['eth0']]
@@ -115,5 +115,4 @@ class ContainerSummaryModel(object):
                     "MEMORY": self.containersummary[key]['minute_usage']['memory']['mean']
                 }
             }
-
         return self
