@@ -34,6 +34,7 @@ class MachinestatModel(object):
                           network_interface['name'] in ['eth0']]
             DIC['rxb'] = [network_interface['rx_bytes'] for network_interface in machineinfo['network']['interfaces'] if
                           network_interface['name'] in ['eth0']]
+            DIC['memory'] = machineinfo['memory']['usage']
             self.CollectList.append(DIC)
         return self
 
