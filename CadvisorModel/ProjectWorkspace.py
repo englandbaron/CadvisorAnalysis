@@ -43,7 +43,7 @@ class ProjectWorkspace(object):
         if ResourceType != "FILE" and ResourceType != "HTTP":
             LOG.error("Resource Is Invalid!!!Exiting...")
             exit(0)
-        LOG.success("The Memory Capacity: %s" % self.Memory)
+        LOG.debug("The Memory Capacity: %s" % self.Memory)
 
     def MachineStatParser(self):
         """
