@@ -1,12 +1,15 @@
+import os
 import json
 import logging
 from configparser import ConfigParser
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 __Config__DIC__ = {}
 
 def GetDebugMode():
     cfg=ConfigParser()
-    cfg.read("config.ini")
+    cfg.read("%s/config.ini" % BASE_DIR)
     return cfg.getboolean("App", "Debug")
 
 if GetDebugMode():
@@ -35,7 +38,7 @@ class LOG(object):
 
 class ProjectConfig():
     @staticmethod
-    def INIT(ConfigFileName="config.ini"):
+    def INIT(ConfigFileName="%s/config.ini" % BASE_DIR):
         cfg = ConfigParser()
         cfg.read(ConfigFileName)
 

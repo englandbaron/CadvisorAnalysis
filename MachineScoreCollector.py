@@ -3,7 +3,7 @@
 
 """
 @author: Tang Smith
-@contact: zzetian@cn.ibm.com
+@contact: 415107188@qq.com
 @software: PyCharm
 @time: 2019-08-02 19:17
 """
@@ -22,7 +22,7 @@ parser.add_argument('-i', '--item',help="""The Resource Item""")
 args = parser.parse_args()
 if not args.item:
     parser.print_help()
-    sys.stderr.write("\nExample: \n  python ContainerScoreCollector.py -m HTTP -i http://node1:8080\n")
+    sys.stderr.write("\nExample: \n  python MachineScoreCollector.py -m HTTP -i http://node1:8080\n")
     sys.exit()
 workspace = ProjectWorkspace(args.method, args.item)
 MachineStatParser = workspace.MachineStatParser()
