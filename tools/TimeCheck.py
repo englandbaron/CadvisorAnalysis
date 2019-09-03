@@ -36,9 +36,9 @@ for Folder in FolderList:
 
     container_max_value = float(0)
     container_min_value = float(2 ** 100)
-    for mos in range(1, len(ContainerStatParser.CollectList)):
+    for mos in range(0, len(ContainerStatParser.CollectList)):
         for time in [datetime.timestamp(dateutil.parser.parse(t['time'])) * 1000 for t in ContainerStatParser.CollectList[mos]['STATS']]:
-            LOG.success(time)
+            # LOG.success(time)
             container_max_value = max(container_max_value,float(time))
             container_min_value = min(container_min_value,float(time))
     LOG.success("Container Stat:")
