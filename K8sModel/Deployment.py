@@ -18,3 +18,6 @@ class Deployment(object):
 
     def pod_bind(self,pod):
         self.pod_list.append(pod)
+
+    def __repr__(self):
+        return "<Deployment %s>" % self.name

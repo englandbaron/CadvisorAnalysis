@@ -16,3 +16,6 @@ class Host(object):
     def get_capacity(self,time):
         # TODO: return cpu/memory/capacity score dict
         pass
+
+    def __repr__(self):
+        return "<Host %s>" % self.name

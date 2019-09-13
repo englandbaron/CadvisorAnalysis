@@ -22,3 +22,6 @@ class Service(object):
     def tx_bytes(self,time):
         # TODO: through output bytes / time
         pass
+
+    def __repr__(self):
+        return "<Service %s>" % self.name
