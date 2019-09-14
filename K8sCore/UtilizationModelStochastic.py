@@ -20,15 +20,15 @@ class UtilizationModelStochastic(UtilizationModel):
         """
         # TODO: Model Initial Func
         super().__init__(kwargs)
-        pass
+        self.seed = kwargs.get("seed")
+        self.utilization = 0.0
 
     def MIPGenerator(self):
-        super().MIPGenerator()
+        self.RandomMIPGenerator(self.seed)
 
     def RandomMIPGenerator(self, seed):
         # TODO: Random Agorithm
         pass
 
     def getUtilization(self):
-        # TODO: Return Pod Utilization
-        pass
+        return self.utilization

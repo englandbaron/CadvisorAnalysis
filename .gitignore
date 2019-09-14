@@ -113,3 +113,4 @@ tools/
 config.yaml
 .vscode/
 migrations/
+K8sFuncTest.py

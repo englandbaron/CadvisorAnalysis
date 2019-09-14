@@ -14,3 +14,7 @@ HostMIP_Variables = ["2266","2300","2833","3200"]
 HostMemory_Variables = ["4096","8192","16384","32768"]
 
 TimePeriod = 60 # 1 minute
+Date = 30 * 24 * 60
+
+seed = 10
+scale = 10.0

@@ -10,9 +10,12 @@
 
 class Pod(object):
     def __init__(self,name,cpu,memory):
-        # TODO: Random Generate the Name
+        # TODO: Generate the Name/CPU/Memeory & Bind Utilization
         self.name = name
-        pass
+        self.cpu = cpu
+        self.memory = memory
+
+        self.UtilizationModel = None
 
     def get_capacity(self):
         # TODO: Return Capacity
