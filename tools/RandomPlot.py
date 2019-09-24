@@ -7,21 +7,8 @@
 @software: PyCharm
 @time: 2019/9/14 下午12:32
 """
-from random import random
-import numpy as np
-import matplotlib.pyplot as plt
-
-# Key values
-xmin = 0
-xmax = 10
-scale = 10.0
-seed = 10
-
-np.random.seed = seed
-x = np.linspace(xmin, xmax, num=1000)
-
 from random import seed
-from random import random
+from random import random, uniform
 from matplotlib import pyplot
 
 seed(1)
@@ -35,7 +22,8 @@ def CheckValueLegal(value):
     return False
 
 def GenerateRandomValue(value):
-    movement = -1 if random() < 0.5 else 1
+    # movement = -1 if random() < 0.5 else 1
+    movement = uniform(-1, 1)
     result = value + movement
     if CheckValueLegal(result):
         return result

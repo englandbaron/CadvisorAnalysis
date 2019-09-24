@@ -103,13 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 .idea/
-OfficialTutorial.py
 .DS_Store
-config.yaml
-1400880-DeliveryWorkItem.yaml
-1787278-DeliveryWorkItem.yaml
-1400880-sfilelist.txt
 config.yaml
 .vscode/
 migrations/
 K8sFuncTest.py
+2019*

@@ -8,7 +8,8 @@
 @time: 2019/9/13 上午12:26
 """
 
-from K8sCore import g
+from K8sCore.g import *
+from .Host import Host
 
 class K8SCluster(object):
     def __init__(self,NodeList,PredictAlgorithm,PriorityAlgorithm):
