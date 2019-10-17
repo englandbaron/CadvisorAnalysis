@@ -7,21 +7,17 @@
 @software: PyCharm
 @time: 2019/9/13 上午12:25
 """
-
-from .Pod import Pod
+from ToolUtils.PublicUtils import LOG
+from .Deployment import Deployment
 
 class Service(object):
-    def __init__(self,name,Deployment,Port):
+    def __init__(self,name,PodNumber,Seed):
         # TODO: Logic View for Service
-        pass
-
-    def rx_bytes(self,time):
-        # TODO: receive bytes / time
-        pass
-
-    def tx_bytes(self,time):
-        # TODO: through output bytes / time
-        pass
+        self.name = name
+        self.PodNumber = PodNumber
+        self.Seed = Seed
+        self.Deployment = Deployment(name,PodNumber)
+        LOG.debug("Service Initial: %s" % self.__repr__())
 
     def __repr__(self):
-        return "<Service %s>" % self.name
+        return "<Service %s|%d|%d>" % (self.name,self.PodNumber,self.Seed)

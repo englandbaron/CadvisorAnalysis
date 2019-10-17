@@ -11,8 +11,9 @@
 from .Pod import Pod
 
 class Deployment(object):
-    def __init__(self,name):
+    def __init__(self,name,InitialPodNumber):
         # TODO: Logic View for Pods
+        self.PodNumber = InitialPodNumber
         self.pod_list = []
         pass
 

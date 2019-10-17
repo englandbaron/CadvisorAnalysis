@@ -109,3 +109,4 @@ config.yaml
 migrations/
 K8sFuncTest.py
 2019*
+algorithm/
