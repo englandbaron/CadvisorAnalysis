@@ -13,5 +13,10 @@ stages:
       event:
         include:
         - tag
+  - runScriptConfig:
+      image: python:latest
+      shellScript: env
+    env:
+      HELLO: another
 timeout: 60
 notification: {}
