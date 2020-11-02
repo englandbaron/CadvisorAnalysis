@@ -4,5 +4,11 @@ stages:
   - runScriptConfig:
       image: python:latest
       shellScript: env
+    env:
+      HELLO: WORLD
+    when:
+      branch:
+        include:
+        - master
 timeout: 60
 notification: {}
