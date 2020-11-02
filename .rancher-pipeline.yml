@@ -10,5 +10,8 @@ stages:
       branch:
         include:
         - master
+      event:
+        include:
+        - tag
 timeout: 60
 notification: {}
