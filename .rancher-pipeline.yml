@@ -18,5 +18,12 @@ stages:
       shellScript: env
     env:
       HELLO: another
+    envFrom:
+    - sourceName: pipeline-api-key
+      sourceKey: API_TOKEN
+    - sourceName: pipeline-secret
+      sourceKey: admin-token
+    - sourceName: pipeline-secret
+      sourceKey: admin-user
 timeout: 60
 notification: {}
