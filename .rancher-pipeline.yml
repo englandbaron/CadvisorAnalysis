@@ -15,7 +15,7 @@ stages:
         - tag
   - runScriptConfig:
       image: python:latest
-      shellScript: env
+      shellScript: echo '''hello world'''
     env:
       HELLO: another
     envFrom:
